@@ -1,0 +1,4 @@
+
+id/userID/stockName/number/butDate/sellDate
+0e641b59-e3de-4c64-ab2c-1f3726d2b5a7 7dc00420-b026-4d36-83f8-c70e9d1f2742 AMZN 1 Fri Dec 16 16:04:35 EST 2022  
+4e400cfc-1b9b-43b0-908b-5dae9323bb69 7dc00420-b026-4d36-83f8-c70e9d1f2742 NVDA 2 Fri Dec 16 16:25:02 EST 2022

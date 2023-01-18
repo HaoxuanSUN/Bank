@@ -1,0 +1,6 @@
+ID/Username/FirstName/LastName/Password/Birth/Saving/Checking/Loan/Securities/CardNumber
+01f02c0c-bbdd-4dc3-9827-90c840a4796f Lily Yiran Huang 123 19991130 123456
+7dc00420-b026-4d36-83f8-c70e9d1f2742 snigdhapulim Snigdha Pulim 1234 12/28/1998 dfgdfgdf12
+1752e362-c4fd-455c-8748-fbe7e18a425b naveenap Naveena P 123456789 12/28/1998 dsfsdf456
+4ee2646f-8d5a-484c-8933-df18f6b354ca daanvirs Daanvir Singh 111 02/13/1997 dsfgwkyrfdjlfdjsd56
+b5bb064c-4bc1-4de6-96a9-a60f369d0498 testtest123 Test Test 1234 01/01/1991 qwrwqd1

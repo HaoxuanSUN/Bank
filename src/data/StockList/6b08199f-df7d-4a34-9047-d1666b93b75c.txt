@@ -1,0 +1,3 @@
+
+id/userID/stockName/number/butDate/sellDate
+73171f2c-4b13-44f5-abf6-beb9946abaf6 6b08199f-df7d-4a34-9047-d1666b93b75c GOOGL 1 Fri Dec 16 17:36:35 EST 2022  

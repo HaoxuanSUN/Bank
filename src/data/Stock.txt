@@ -1,0 +1,20 @@
+name/price/company
+META 119.64 Meta
+GOOGL 90.0 Alphabet
+AMZN 150.0 Amazon
+NVDA 179.69 NVIDIA
+MSFT 255.99 Microsoft
+NFLX 318.96 Netflix
+AAPL 145.16 Apple
+ZM 73.39 Zoom
+DIS 94.58 Disney
+TSLA 160.44 Tesla
+AMD 71.44 AMD
+BA 187.30 Boeing
+BABA 91.25 Alibaba
+ORCL 80.08 Oracle
+PYPL 20.0 Paypal
+NIKE 90.0 nike
+QAZ 23.0 waqsz
+
+QWS 100.0 qws
